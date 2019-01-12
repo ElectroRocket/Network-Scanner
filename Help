@@ -1,0 +1,5 @@
+when you run the script you will be prompted to enter the subnet mask:
+eg:
+if your IP is 192.168.1.1
+then enter: 192.168.1. and press enter
+ the script will scan the network and will show you IP Addresses which have devices connected
